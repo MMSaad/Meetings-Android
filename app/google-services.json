@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "876866605145",
+    "firebase_url": "https://hajj-55a1d.firebaseio.com",
+    "project_id": "hajj-55a1d",
+    "storage_bucket": "hajj-55a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876866605145:android:b87687ed9f5ecd3e",
+        "android_client_info": {
+          "package_name": "sa.com.gov.tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876866605145-jskna4fjc9k4p6o0s1jhe6ngegqc8ev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kQoS9EZY0LB-Wg6INMGl7XT9tbE9eIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876866605145:android:af83ea7566ca7e60",
+        "android_client_info": {
+          "package_name": "sa.gov.hajj.tasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876866605145-9s660j18dh30ub6rmlld22oc12dk7mvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sa.gov.hajj.tasks",
+            "certificate_hash": "b65405ea60284f078605f6f23f0d721fa12a2629"
+          }
+        },
+        {
+          "client_id": "876866605145-jskna4fjc9k4p6o0s1jhe6ngegqc8ev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kQoS9EZY0LB-Wg6INMGl7XT9tbE9eIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876866605145-jskna4fjc9k4p6o0s1jhe6ngegqc8ev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876866605145:android:d9d51a91cc98a700",
+        "android_client_info": {
+          "package_name": "com.gama.hajj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876866605145-7qffboui6lqsi4qchufqkt0tfvijare2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gama.hajj",
+            "certificate_hash": "b65405ea60284f078605f6f23f0d721fa12a2629"
+          }
+        },
+        {
+          "client_id": "876866605145-jskna4fjc9k4p6o0s1jhe6ngegqc8ev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kQoS9EZY0LB-Wg6INMGl7XT9tbE9eIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876866605145-jskna4fjc9k4p6o0s1jhe6ngegqc8ev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876866605145:android:3b7d68552e17669b",
+        "android_client_info": {
+          "package_name": "sa.gov.hajj.meetings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876866605145-cvfeiff9taj82d6q5o8pot8i5phvhlir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sa.gov.hajj.meetings",
+            "certificate_hash": "b65405ea60284f078605f6f23f0d721fa12a2629"
+          }
+        },
+        {
+          "client_id": "876866605145-jskna4fjc9k4p6o0s1jhe6ngegqc8ev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3kQoS9EZY0LB-Wg6INMGl7XT9tbE9eIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876866605145-jskna4fjc9k4p6o0s1jhe6ngegqc8ev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
