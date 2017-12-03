@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_login" translatable="false">https://eumrasubs.com/newagent/token</string>
+    <string name="url_forget_password" translatable="false">https://eumrasubs.com/newagent/api/tasks/forgetPassword</string>
+    <string name="url_update_data" translatable="false">https://eumrasubs.com/newAgent/api/tasks/SyncData</string>
+    <string name="url_gama" translatable="false">http://www.gama-ksa.com</string>
+</resources>
